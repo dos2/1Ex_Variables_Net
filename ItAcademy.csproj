@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\..\Documents\CopiaProjecteGiT\2Ex_LletresRepetides_net\Ex2_Fase1.cs" Link="Ex2_Fase1.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\obj\Debug\netcoreapp3.1\ItAcademy.csprojAssemblyReference.cache
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\obj\Debug\netcoreapp3.1\ItAcademy.AssemblyInfoInputs.cache
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\obj\Debug\netcoreapp3.1\ItAcademy.AssemblyInfo.cs
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\obj\Debug\netcoreapp3.1\ItAcademy.csproj.CoreCompileInputs.cache
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\bin\Debug\netcoreapp3.1\ItAcademy.exe
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\bin\Debug\netcoreapp3.1\ItAcademy.deps.json
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\bin\Debug\netcoreapp3.1\ItAcademy.runtimeconfig.json
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\bin\Debug\netcoreapp3.1\ItAcademy.runtimeconfig.dev.json
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\bin\Debug\netcoreapp3.1\ItAcademy.dll
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\bin\Debug\netcoreapp3.1\ItAcademy.pdb
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\obj\Debug\netcoreapp3.1\ItAcademy.dll
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\obj\Debug\netcoreapp3.1\ItAcademy.pdb
+C:\Users\erica\source\repos\ItAcademy\ItAcademy\obj\Debug\netcoreapp3.1\ItAcademy.genruntimeconfig.cache
